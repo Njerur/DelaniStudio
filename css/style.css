@@ -1,0 +1,114 @@
+#logosec{
+    text-align: center;
+    background-image:url(/images/backgrounds/h_img.jpg);
+    background-size: cover;
+    color: white;
+}
+#img1{
+    margin-top: 200px;
+}
+#image2{
+    margin-top: 20px;
+}
+#aboutus{
+    text-align:center;
+}
+#services{
+    text-align: center;
+    background-image: url(/images/backgrounds/s_image.jpg);
+    background-size: cover;
+    color: white;
+    margin-top: 50px;
+    height: 300px;
+}
+#heading4{
+    margin-top: 50px;
+}
+#col-1{
+    text-align: center;
+}
+#col-2{
+    text-align: center;
+}
+#col-3{
+    text-align: center;
+}
+#desi{
+display: none;
+}
+#dev{
+display: none;
+}
+#pm{
+display: none;
+}
+#whatwedo h4{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#container2,#port{
+    margin-top: 50px;
+    text-align: center;
+}
+#work4{
+    width: 150px;
+}
+#work3{
+    width: 150px;
+}
+#work2{
+    width: 150px;
+}
+#work1{
+    width: 150px;
+}
+#work5{
+    width: 150px;
+}
+#row3{
+    margin-top: 30px;
+}
+#work6{
+    width: 150px;
+}
+#work7{
+    width: 150px;
+}
+#work8{
+    width: 150px;
+}
+#con{
+    margin-top: 30px;
+    
+}
+#name{
+    width: 400px;
+    margin-right: 80px;
+    background: transparent;
+    border:2px solid white;
+}
+#email{
+    width: 400px;
+    background: transparent;
+    border: 2px solid white;
+}
+#ta{
+    height: 200px;
+    width: 700px;
+    background: transparent;
+    border: 2px solid white;
+}
+#contact{
+    color: white;
+    background-size: cover;
+    background-image: url(../images/backgrounds/c_image.jpg);
+
+}
+#work9{
+    width: 40px;
+}
+#work10{
+    width: 40px;
+    height: 0;
+}
