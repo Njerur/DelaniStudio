@@ -1,6 +1,6 @@
 #logosec{
     text-align: center;
-    background-image:url('./../images/backgrounds/h_img.jpg');
+    background-image:url('./images/backgrounds/h_img.jpg');
     background-size: cover;
     color: white;
 }
@@ -15,7 +15,7 @@
 }
 #services{
     text-align: center;
-    background-image: url('./../images/backgrounds/s_image.jpg');
+    background-image: url('./images/backgrounds/s_image.jpg');
     background-size: cover;
     color: white;
     margin-top: 50px;
@@ -102,7 +102,7 @@ display: none;
 #contact{
     color: white;
     background-size: cover;
-    background-image: url('./../images/backgrounds/c_image.jpg');
+    background-image: url('./images/backgrounds/c_image.jpg');
 
 }
 #work9{
